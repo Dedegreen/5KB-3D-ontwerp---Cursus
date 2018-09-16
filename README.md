@@ -1,2 +1,3 @@
-# 5KB-3D-ontwerp---Cursus
+# 5KB-3D-ontwerp-Cursus
 Art-toy modelleren
+Basis modelleren
